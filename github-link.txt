@@ -1,0 +1,6 @@
+https://github.com/fajarghifar/inventory-management-system
+
+Login using the default admin credentials:
+
+Email: admin@admin.com
+Password: password
